@@ -1,5 +1,6 @@
 ## Indroduction of the project
 
-### front end
+### frontend
+HTML5, CSS3, JavaScript, Bootstrap4
 
-### back end
+### backend
